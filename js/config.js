@@ -109,9 +109,9 @@ const API_SITES = {
         api: 'https://ikunzyapi.com/api.php/provide/vod',
         name: 'iKun资源'
     },
-    fantaiying: {
-        api: 'http://www.饭太硬.net/tv/api.php/provide/vod',
-        name: '饭太硬'
+    chunyi: {
+        api: 'https://100km.top/api.php/provide/vod',
+        name: '纯一资源'
     },
     testSource: {
         api: 'https://www.example.com/api.php/provide/vod',
