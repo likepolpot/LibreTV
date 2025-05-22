@@ -109,9 +109,9 @@ const API_SITES = {
         api: 'https://ikunzyapi.com/api.php/provide/vod',
         name: 'iKun资源'
     },
-    chunyi: {
-        api: 'https://100km.top/api.php/provide/vod',
-        name: '纯一资源'
+    keke: {
+        api: 'https://www.kkys02.com/api.php/provide/vod',
+        name: '可可资源'
     },
     testSource: {
         api: 'https://www.example.com/api.php/provide/vod',
